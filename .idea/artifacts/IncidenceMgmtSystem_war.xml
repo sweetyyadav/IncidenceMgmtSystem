@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IncidenceMgmtSystem:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IncidenceMgmtSystem.war">
+      <element id="artifact" artifact-name="IncidenceMgmtSystem:war exploded" />
+    </root>
+  </artifact>
+</component>
